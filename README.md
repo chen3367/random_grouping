@@ -1,1 +1,2 @@
-# 下載阿明勾最強分組.zip就好
+# Download
+Code(綠色的) -> Download ZIP
